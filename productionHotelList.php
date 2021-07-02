@@ -17,8 +17,14 @@
 //$file = fopen('2019to2020.csv',"r");
 
 //2020-NOW
-$file = fopen('2020-2021prod.csv',"r");
+//$file = fopen('2020-2021prod.csv',"r");
 
+
+
+//IHG PRODUCTION LIST BY HOTEL CHAIN
+
+//INTERCONTINENTAL FROM 2019 - 2020
+$file = fopen('');
 $fullList = array();
 
 $result['reservation_id'] = "reservation_id";
